@@ -1,3 +1,4 @@
+```python
 class AboutMe:
     def __init__(self):
         self.name = "haoyun, shih"
@@ -6,3 +7,4 @@ class AboutMe:
         self.bachelor = ["Fine Arts", "Science"]
 
 me = AboutMe()
+```
